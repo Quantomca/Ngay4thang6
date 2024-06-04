@@ -1,0 +1,14 @@
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\bin\Debug\net8.0\bai5_2.exe
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\bin\Debug\net8.0\bai5_2.deps.json
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\bin\Debug\net8.0\bai5_2.runtimeconfig.json
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\bin\Debug\net8.0\bai5_2.dll
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\bin\Debug\net8.0\bai5_2.pdb
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\obj\Debug\net8.0\bai5_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\obj\Debug\net8.0\bai5_2.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\obj\Debug\net8.0\bai5_2.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\obj\Debug\net8.0\bai5_2.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\obj\Debug\net8.0\bai5_2.dll
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\obj\Debug\net8.0\refint\bai5_2.dll
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\obj\Debug\net8.0\bai5_2.pdb
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\obj\Debug\net8.0\bai5_2.genruntimeconfig.cache
+C:\Users\Laptop\source\repos\bai5_2\bai5_2\obj\Debug\net8.0\ref\bai5_2.dll
